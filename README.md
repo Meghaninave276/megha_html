@@ -9,3 +9,6 @@ output:web wireframe
 
 output:mustache
 ![mustache](https://github.com/user-attachments/assets/9506aa76-14da-4e09-aa51-7ce16d3ce714)
+
+output:html exercies
+![exe](https://github.com/user-attachments/assets/f5a9d18b-d193-48a8-8f2e-1d583fdd44fb)
