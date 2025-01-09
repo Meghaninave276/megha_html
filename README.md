@@ -12,3 +12,11 @@ output:mustache
 
 output:html exercies
 ![exe](https://github.com/user-attachments/assets/f5a9d18b-d193-48a8-8f2e-1d583fdd44fb)
+
+output:webpage
+![Screenshot 2025-01-09 200153](https://github.com/user-attachments/assets/9b67af7a-9632-4c6a-8688-66efe285f4ce)
+
+output:container
+
+![webpage](https://github.com/user-attachments/assets/b93c0ab4-2463-4d2f-bd37-71c3f2647185)
+
