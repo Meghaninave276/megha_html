@@ -1,0 +1,110 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.nav
+{
+    height: 70px;
+    width: 100%;
+    border: 2px solid black;
+    float: left;
+}
+.logo
+{
+    height: 70px;
+    width: 10%;
+    
+    line-height: 70px;
+    float: left;
+}
+.menu
+{
+    height: 70px;
+    width: 90%;
+   
+    float: left;
+}
+ul
+{
+    width: 90%;
+    float: right;
+    
+}
+li
+{
+    float: right;
+    list-style: none;
+    padding: 25px;
+}
+.nav-container
+{
+    height: 70px;
+    width: 95%;
+    margin: auto;
+    float: left;
+}
+.banner-container
+{
+    height: 300px;
+    width: 100%;
+    
+    float: left;
+    margin: 20px 0px;
+}
+.banner
+{
+    height: 280px;
+    width: 100%;
+    background-color: yellow;
+    margin: 20px 0px;
+    border-radius: 50px;
+    float: left;
+}
+.box
+{
+    height: 300px;
+    width: 100%;
+    background-color: aqua;
+    margin: 20px 0px;
+    float: left;
+}
+.box1
+{
+    height: 100px;
+    width: 32.33%;
+    background-color: black;
+    line-height: 100px;
+    float: left;
+    margin: 100px 0px;
+    margin-left: 20px;
+   
+    
+}
+.box2
+{
+    height: 100px;
+    width: 32.33%;
+    background-color: magenta;
+    line-height: 100px;
+   float: left;
+    margin: 100px 0px;
+   
+    
+}
+.boxes
+{
+    height: 100px;
+    width: 32.33%;
+    background-color:maroon;
+    line-height: 100px;
+    float: left;
+    margin: 100px 0px;
+
+
+    
+    
+   
+}
