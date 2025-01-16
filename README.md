@@ -20,3 +20,8 @@ output:container
 
 ![webpage](https://github.com/user-attachments/assets/b93c0ab4-2463-4d2f-bd37-71c3f2647185)
 
+output:sweetkick
+
+![sweetkick](https://github.com/user-attachments/assets/bf687255-42d0-4569-b508-b69f80ee8e4b)
+
+
