@@ -1,0 +1,29 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.mobile {
+  height: 100px;
+  width: 100%;
+  background-color: cadetblue;
+  visibility: hidden;
+}
+.tablet {
+  height: 100px;
+  width: 100%;
+  background-color: rgb(88, 17, 94);
+  visibility: hidden;
+}
+.computer {
+  height: 100px;
+  width: 100%;
+  background-color: cadetblue;
+  visibility: hidden;
+}
+.lg {
+  height: 100px;
+  width: 100%;
+  background-color: rgb(69, 5, 46);
+  visibility: hidden;
+}

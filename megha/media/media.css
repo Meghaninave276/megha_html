@@ -1,0 +1,38 @@
+@media (max-width: 480px) {
+  .mobile {
+    visibility: visible;
+  }
+}
+@media (min-width: 480px) and (max-width: 768px) {
+  .mobile {
+    visibility: visible;
+  }
+  .tablet {
+    visibility: visible;
+  }
+}
+@media (min-width: 769px) and (max-width: 1024px) {
+  .mobile {
+    visibility: visible;
+  }
+  .tablet {
+    visibility: visible;
+  }
+  .computer {
+    visibility: visible;
+  }
+}
+@media (min-width: 1025px) and (max-width: 1200px) {
+  .mobile {
+    visibility: visible;
+  }
+  .tablet {
+    visibility: visible;
+  }
+  .computer {
+    visibility: visible;  
+  }
+  .lg {
+    visibility: visible;
+  }
+}
